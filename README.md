@@ -20,6 +20,8 @@
     - Backend Project 4
     - Backend Project 5 
 - 2024/07/01〜2024/11/30
+    - 10 companies
+    - 1on1ミーティング(2回目)
     - Portfolio
     - Scalability & Data Systems Books
 - 2024/12/01〜
